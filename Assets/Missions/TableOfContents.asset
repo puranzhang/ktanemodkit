@@ -15,4 +15,5 @@ MonoBehaviour:
   Sections:
   - Title: tion1sec
     MissionIDs:
-    - mission
+    - mission_fixed
+    - mission_randomized
